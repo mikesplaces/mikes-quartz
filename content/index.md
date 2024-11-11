@@ -1,9 +1,8 @@
 ---
 title: Welcome to Mikes Writing
 ---
-## Welcome to Mikes Writing
 
-This is my writing, blogging, whatever site. There's not a lot of organization. Or any really. Everything comes from Obsidian on my iPhone and MacBook. This is a subset of things I want to publish. 
+This is my writing, blogging, whatever site. There's not a lot of organization. Or any really. Everything comes from Obsidian on my iPhone and MacBook. This is a subset of things I want to publish. One page to rule them all is my [[About, Contact, Now, Then]] page. Everything you did not want to know.
 
 ## Some things here
 
